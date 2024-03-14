@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    background-color: aquamarine;
+    border-width: 5px;
+    border-color:red  ;
+}
+#mySubmit{
+    font-size: 1em;
+}
+#container {
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+}
